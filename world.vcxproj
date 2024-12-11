@@ -128,7 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="practice_1.c" />
-    <ClCompile Include="test.c" />
+    <ClCompile Include="딸기소스.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="base.h" />
