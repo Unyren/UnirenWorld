@@ -1,7 +1,8 @@
 #include <stdio.h>
 int main()
 {
-	int a = 3;
+	int strawberry;
+	int blueberry;
 
 	return 0;
 }
