@@ -20,7 +20,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="pointer.c">
+    <ClCompile Include="shop.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
